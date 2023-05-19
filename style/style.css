@@ -576,4 +576,16 @@ body .fixed-footer .impress .ver-line {
   body .fixed-footer .impress {
     font-size: 68%;
   }
+}
+body .chat {
+  position: fixed;
+  bottom: 14%;
+  padding: 10px;
+  right: 5%;
+}
+body .chat i {
+  padding: 16px;
+  border-radius: 50%;
+  box-shadow: 0px 0px 5px black;
+  font-size: 230%;
 }/*# sourceMappingURL=style.css.map */
