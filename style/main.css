@@ -1,0 +1,23 @@
+.radial{
+   background-image: radial-gradient(white, green);
+   text-shadow: 0px 0px 10px green;
+   color: white;
+}
+.line{
+   padding: 5px 0;
+   border-radius: 10px;
+   background-color: red;
+   width: 90%;
+   position: relative;
+   margin: auto;
+}
+.radial-gold{
+   background-image: radial-gradient( rgb(254, 217, 213), lightgreen);
+   text-shadow: 0px 0px 10px green;
+   color: white;
+}
+.radial-mist{
+   background-image: radial-gradient(lightgreen, rgb(254, 217, 213));
+   text-shadow: 0px 0px 10px white;
+   color: green;
+}
