@@ -80,7 +80,7 @@ function slide() {
            $(".categories .category").css({"right":s + "%"});
        }
 }
-setInterval(slide, 2000);
+setInterval(slide, 3000);
 
 
 
@@ -117,6 +117,6 @@ function beforeSlider() {
            $(".before-after .section").css({"right":ns + "%"});;
        }
 }
-setInterval(beforeSlider, 2000);
+setInterval(beforeSlider, 5000);
    
 });
