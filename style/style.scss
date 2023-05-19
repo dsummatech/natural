@@ -543,6 +543,29 @@ height: 50px;
 width: 100%;
 position: fixed;
 bottom: 0;
+.impress{
+    background-color: transparent;
+    text-align: center;
+    text-transform: capitalize;
+    display: inline-flex;
+    width: 100%;
+    height: max-content;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 8px 0;
+    color: green;
+    text-shadow: 0px 0px 10px white;
+    .ver-line{
+        background-image: radial-gradient(white, green);
+        padding:0px 1px;
+        height: 50px;
+    }
+}
+@media screen and (max-width:800px){
+    .impress{
+        font-size: 68%;
+    }
+}
     }
     //fixed footer class tag ends
 

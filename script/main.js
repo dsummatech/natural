@@ -70,7 +70,7 @@ $(".next-slide .fa-angle-left").click( function () {
     
 });
 
-function slide() {
+/*----------------function slide() {
     if (s != 50) {
         s += 25;
         $(".categories .category").css({"right":s + "%"});
@@ -80,7 +80,7 @@ function slide() {
            $(".categories .category").css({"right":s + "%"});
        }
 }
-setInterval(slide, 3000);
+setInterval(slide, 3000);----------*/
 
 
 
