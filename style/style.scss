@@ -22,7 +22,7 @@ body{
             
             
         }//slider section ends
-        @media screen and (max-width:800px){
+        @media screen and (max-width:1000px){
             .slider{
                 height: 460px;
             }
@@ -69,7 +69,7 @@ body{
                 height: 50px;
             }
         }
-        @media screen and (max-width:800px){
+        @media screen and (max-width:1000px){
             .impress{
                 font-size: 68%;
             }
@@ -128,7 +128,7 @@ body{
                     border-radius: 50%;
                 }
             }
-            @media screen and (max-width:800px) {
+            @media screen and (max-width:1000px) {
                 .categories{
                     width: 200%;
                     transition: 1s;
@@ -190,7 +190,7 @@ body{
             }
         }
 
-        @media screen and (max-width:800px) {
+        @media screen and (max-width:1000px) {
             .before-after{
                 height: max-content;
                 .section{
@@ -316,7 +316,7 @@ body{
                     }
                 }
             }
-            @media screen and (max-width:800px){
+            @media screen and (max-width:1000px){
                 .footer-row{
                 display: unset;
                 justify-content: unset;
@@ -372,7 +372,7 @@ body{
                 }
             }
         
-            @media screen and (max-width:800px){
+            @media screen and (max-width:1000px){
                 .abs{
                 display: unset;
                 justify-content: unset;
@@ -396,7 +396,6 @@ body{
     //header class tag
     .header{
 background-color: transparent;
-box-shadow: 0px 0px 5px green;
 height: 50px;
 padding: 7px 0;
 width: 100%;
@@ -501,7 +500,7 @@ transition: 1s;
             }
         }
     }
-    @media screen and (max-width:800px) {
+    @media screen and (max-width:1100px) {
         .big-menu{
             display: none;
         }
@@ -520,7 +519,7 @@ transition: 1s;
             border: 2px solid rgb(4, 190, 4);
         }
     }
-    @media screen and (max-width:800px) {
+    @media screen and (max-width:1100px) {
         .mobile-menu-btn{
             display: block;
         }
@@ -568,9 +567,9 @@ bottom: 0;
         height: 50px;
     }
 }
-@media screen and (max-width:800px){
+@media screen and (max-width:1000px){
     .impress{
-        font-size: 68%;
+        font-size: 60%;
     }
 }
     }
