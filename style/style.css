@@ -332,6 +332,14 @@ body .body footer .footer-row .footer-col i {
     max-width: 98%;
     padding: 20px 1%;
   }
+  body .body footer .abs {
+    display: unset;
+    justify-content: unset;
+  }
+  body .body footer .abs .footer-col {
+    max-width: 98%;
+    padding: 20px 1%;
+  }
   body .body footer .newsletter {
     width: 90%;
   }

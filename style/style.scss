@@ -324,6 +324,13 @@ body{
                     max-width: 98%;
                     padding:20px 1%;}
                 }
+                .abs{
+                    display: unset;
+                    justify-content: unset;
+                    .footer-col{
+                        max-width: 98%;
+                        padding:20px 1%;}
+                    }
                 .newsletter{
                     width: 90%;
                 }
